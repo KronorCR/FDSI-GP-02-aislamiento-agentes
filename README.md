@@ -21,8 +21,6 @@ Este primer hito establece las **bases conceptuales, de investigación y la infr
 2. **Diseño experimental:** Definición de las dos arquitecturas (Unsecure vs Secure), la matriz de pruebas (T01 a T05) y los criterios de evaluación.
 3. **Estructura del repositorio de trabajo:** Creación y versionamiento del entorno base de código, datos ficticios de prueba, servidor local y configuraciones de aislamiento.
 
-> [!NOTE]
-> Siguiendo el alcance del informe de avance, en esta fase no se presentan conclusiones definitivas ni resultados experimentales finales, sino la validación del entorno y la ruta técnica para iniciar las pruebas sistemáticas.
 
 ### ¿Cuál es el 90% restante del proyecto?
 
